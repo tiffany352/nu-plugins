@@ -1,0 +1,13 @@
+[package]
+name = "nu_plugin_exists"
+version = "0.1.0"
+authors = ["Tiffany Bennett <tiffnixen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nu-plugin = "0.24"
+nu-protocol = "0.24"
+nu-source = "0.24"
+nu-errors = "0.24"

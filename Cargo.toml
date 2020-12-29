@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "file_exists",
+    "from_nbt",
+]
